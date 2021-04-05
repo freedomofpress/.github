@@ -133,8 +133,7 @@ else's behalf without their consent.
 
 The Community Team is made up of established members of the community who
 assist with resolving conflicts within the community. The members of the
-Community Teams for different Freedom of the Press Foundation projects are
-listed below.
+Community Team are listed below.
 
 You can contact the whole Community Team or members individually.
 
@@ -151,27 +150,13 @@ resolution proceedings. They will not be involved with the discussion,
 documentation, communications, or decisions made by the rest of the Community
 Team with regards to the incident.
 
-#### For the SecureDrop Project
+#### Community Team Members
 
-Currently the Community Team for SecureDrop consists of:
-
-- Jen Helsby (`@redshiftzero`) - Principal Research Engineer - [jen@freedom.press](mailto:jen@freedom.press)
-- Mickael E. (`@emkll`) - Lead Engineer - [mickael@freedom.press](mailto:mickael@freedom.press)
-
-#### For Freedom of the Press Foundation web projects
-
-For website repositories not related to SecureDrop, the Community Team consists
-of:
-
-- Harris Lapiroff (`@harrislapiroff`) - Principal Web Developer - harris@freedom.press
-
-#### For all other projects
-
-For all other open source projects managed by Freedom of the Press Foundation,
-you can reach out to:
-
-- Conor Schaefer (`@conorsch`) - Chief Technology Officer - conor@freedom.press
-- Erik Moeller (`@eloquence`) - Principal Project Manager - erik@freedom.press
+- Allie Crevier (`@creviera`) - [creviera@freedom.press](mailto:creviera@freedom.press)
+- Conor Schaefer (`@conorsch`) - [conor@freedom.press](mailto:conor@freedom.press)
+- Harlo Holmes (`@harlo`) - [harlo@freedom.press](mailto:harlo@freedom.press)
+- Harris Lapiroff (`@harrislapiroff`) - [harris@freedom.press](mailto:harris@freedom.press)
+- Keturah Dola-Borg (`@ketudb`) - [keturah@freedom.press](mailto:keturah@freedom.press)
 
 ## What the person reporting a violation can expect
 
