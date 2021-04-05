@@ -44,7 +44,7 @@ Members of the community should not:
 - Follow the letter of this Code of Conduct while disregarding its spirit
 
 Members of the community should not hesitate to contact the Community Moderation
-and Safety Team ("Community Team") if they feel someone has violated this Code of
+and Safety Team ("[Community Team](#community-team-members)") if they feel someone has violated this Code of
 Conduct, or if they have questions or concerns.
 
 ## Behavioral Guidelines
@@ -131,7 +131,7 @@ else's behalf without their consent.
 
 ### How to get help
 
-The Community Team is made up of established members of the community who
+The [Community Team](#community-team-members) is made up of established members of the community who
 assist with resolving conflicts within the community. The members of the
 Community Team are listed below.
 
