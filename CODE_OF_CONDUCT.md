@@ -152,7 +152,6 @@ Team with regards to the incident.
 
 #### Community Team Members
 
-- Allie Crevier (`@creviera`) - [allie@freedom.press](mailto:allie@freedom.press)
 - Conor Schaefer (`@conorsch`) - [conor@freedom.press](mailto:conor@freedom.press)
 - Harlo Holmes (`@harlo`) - [harlo@freedom.press](mailto:harlo@freedom.press)
 - Harris Lapiroff (`@harrislapiroff`) - [harris@freedom.press](mailto:harris@freedom.press)
