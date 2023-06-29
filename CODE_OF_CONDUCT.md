@@ -126,10 +126,8 @@ or decisions made by the rest of the Community Team with regards to the incident
 
 #### Community Team Members
 
-- [Conor Schaefer](https://freedom.press/people/conor-schaefer/) - [conor@freedom.press](mailto:conor@freedom.press)
 - [Harlo Holmes](https://freedom.press/people/harlo-holmes) - [harlo@freedom.press](mailto:harlo@freedom.press)
 - [Harris Lapiroff](https://freedom.press/people/harris-lapiroff) - [harris@freedom.press](mailto:harris@freedom.press)
-- [Keturah DB](https://freedom.press/people/keturah-db) - [keturah@freedom.press](mailto:keturah@freedom.press)
 
 ## What the person reporting a violation can expect
 
